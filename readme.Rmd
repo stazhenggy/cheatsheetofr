@@ -1,8 +1,0 @@
----
-title: "readme"
-author: "ZhengGuoying"
-date: "2017年4月20日"
-output: html_document
----
-
-This file is for the R commands frequently used.
